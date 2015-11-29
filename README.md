@@ -12,7 +12,7 @@ The Realto Live Cinema application is Mac-OSX-only software. The application's c
 - [CoGeVJ](http://imimot.com/cogevj/)
 - [Vezer](http://imimot.com/vezer/)
 
-!(https://github.com/jnevin/Realto/blob/develop/Diagrams/Realto-Application-Flow.png)
+![alt text](https://github.com/jnevin/Realto/blob/develop/Diagrams/Realto-Application-Flow.png)
 
 ### Quartz Composer
 The project uses Quartz Composer to create its Cue Manager and its Text Manager. 
