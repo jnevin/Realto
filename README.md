@@ -26,7 +26,7 @@ Communication between these four components is over the local TCP network, prima
 ### Quartz Composer
 The project uses Quartz Composer to create its Cue Manager and its Text Manager. 
 
-The Cue Manager responds to messages from OSC-enabled devices made available to the live realto sayer (the realto's narrator/actor). In turn, with OSC messages of its own, the Cue Manager triggers playhead movement in the realto's Timeline Manager, cueing media playback and other theater events.
+The Cue Manager responds to messages from OSC-enabled and MIDI-enabled interactive devices that are available to the live realto sayer (the realto's narrator/actor). In turn, with OSC messages of its own, the Cue Manager triggers playhead movement in the realto's Timeline Manager, cueing media playback and other theater events.
 
 The Text Manager responds to OSC messages from the Timeline Manager in order to advance through the realto's sequence of text clips, which are then displayed via the Media Manager. 
 
