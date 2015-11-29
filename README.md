@@ -8,8 +8,8 @@ The Realto live cinema project.
 - Realto model for CoGeVJ template.
 
 ## What's To Do:
-- Add Cue Manager QC 
-- Add caption support tools & files
-- Extend CoGeVJ Realto template
 - Add Vezer Realto model
+- Add Cue Manager Quartz Composer tool 
+- Add caption support Quartz Composer syphon server toool
+- Extend CoGeVJ Realto template
 - Normalize media
