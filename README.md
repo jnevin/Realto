@@ -1,7 +1,12 @@
 # Realto
-The Realto live cinema project.
+The Realto Live Cinema project.
 
-## Project Agile Tracking (Kanban)
+## Overview
+This repo contains software application templates for the Realto Live Cinema project.
+
+The Realto application is Mac-OSX-only software built on top of three foundation applications: Quartz Composer, CogeVJ and [Vezer](http://imimot.com/vezer/). 
+
+## Realto Agile Project Tracking Board
 - https://tree.taiga.io/project/jnevin-realto/
 
 ## What's Here Now
