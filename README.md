@@ -7,7 +7,7 @@ The Realto Live Cinema project.
 ## Overview
 This repo contains software application tools and templates for the Realto Live Cinema project.
 
-The Realto application is Mac-OSX-only software. The application's components are built on top of three foundation frameworks: 
+The Realto Live Cinema application is Mac-OSX-only software. The application's components are built on top of three foundation frameworks: 
 - [Quartz Composer](https://developer.apple.com/library/mac/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html)
 - [CoGeVJ](http://imimot.com/cogevj/)
 - [Vezer](http://imimot.com/vezer/)
