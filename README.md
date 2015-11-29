@@ -4,7 +4,7 @@ The Realto Live Cinema project.
 ## Overview
 This repo contains software application templates for the Realto Live Cinema project.
 
-The Realto application is Mac-OSX-only software built on top of three foundation applications: Quartz Composer, CogeVJ and [Vezer](http://imimot.com/vezer/). 
+The Realto application is Mac-OSX-only software built on top of three foundation applications: Quartz Composer, [CogeVJ](http://imimot.com/cogevj/) and [Vezer](http://imimot.com/vezer/). 
 
 ## Realto Agile Project Tracking Board
 - https://tree.taiga.io/project/jnevin-realto/
