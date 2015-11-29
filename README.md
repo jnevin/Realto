@@ -22,7 +22,7 @@ The Text Manager responds to OSC messages from the Timeline Manager in order to 
 ### CoGeVJ
 The project uses CoGeVJ to create is Media Manager. 
 
-The Media Manager manages a realto's audio/visual media, such as video clips, images, effects and layers, and live streams from video cameras and green screen. The Media Manager's interactive mixer, responding to OSC messages from the Timeline Manger, composites the media and displays it for projection.
+The Media Manager manages a realto's audio/visual media, such as video clips, images, effects and layers, and live streams from video cameras and green screen. The Media Manager's interactive mixer, responding to OSC messages from the Timeline Manager, composites the media and displays it for projection.
 
 ### Vezer
 The project uses Vezer to create its Timeline Manager.
