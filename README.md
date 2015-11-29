@@ -15,9 +15,9 @@ The Realto Live Cinema application is Mac-OSX-only software. The application's c
 ### Quartz Composer
 The project uses Quartz Composer to create its Cue Manager and its Text Manager. 
 
-The Cue Manager responds to messages from OSC-enabled devices available to the realto sayer (the realto narrator/actor). In turn, using OSC messages of its own, the Cue Manager triggers playhead movement in the realto's Timeline Manager in order to cue media playback.
+The Cue Manager responds to messages from OSC-enabled devices made available to the live realto sayer (the realto's narrator/actor). In turn, using OSC messages of its own, the Cue Manager triggers playhead movement in the realto's Timeline Manager, which cues media playback and other theater events.
 
-The Text Manager responds to OSC messages from the Timeline Manager in order to advance through the realto's sequence of text clips. 
+The Text Manager responds to OSC messages from the Timeline Manager in order to advance through the realto's sequence of text clips, which are then displayed via the Media Manager. 
 
 ### CoGeVJ
 The project uses CoGeVJ to create is Media Manager. 
