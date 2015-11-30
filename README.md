@@ -3,9 +3,13 @@ The Realto Live Cinema project.
 
 A realto (re&#772;a&#774;l-to&#772;) is a new, hybrid form of visual storytelling -- part live narrative, part pre-recorded movie, part text, part electronic theater -- all coming together in a unified, blended experience perhaps best described as Live Cinema.
 
-In a realto, the live storytelling "sayer," working on a special [greenscreen](https://en.wikipedia.org/wiki/Chroma_key) stage, is also simultaneously inserted as a live actor into a sayer-controlled, interactive "movie" that unfolds on two immediately adjacent projection screens.
+In a realto, the live storytelling "sayer," working on a special [greenscreen](https://en.wikipedia.org/wiki/Chroma_key) stage, is also simultaneously inserted as a live actor into a sayer-controlled, interactive "movie" world that unfolds on two immediately adjacent projection screens.
 
-What the audience ("seers") experience is intentionally ambiguous and discontinuous -- live versus pre-recorded, three dimensional versus two dimesional, aural/visual versus textual.
+The realto audience ("seer") experience is intentionally ambiguous, connected and yet disconnected -- live versus pre-recorded, three dimensional versus two dimesional, aural/visual versus textual.
+
+The invented term "realto" is comprehensive: it describes the means of its production, i.e., the realto toolset, digital and physical; the means of its delivery, i.e., the realto electronic theater or story-space; and the artistic result, i.e., the realto story experience.
+
+An over-arching goal of the Realto project is to enable individual artists, individual artist-engineers, individual "artineers" or "realtoists" -- call yourself what you will -- to be largely self-sufficient while creating the realto, performing the realto and even transporting the realto. To the degree possible, software and schematics are designed as open source works-in-progress to encourage do-it-yourself experimentation and exploration.
 
 ## Realto Agile Project Status Tracking Board
 - https://tree.taiga.io/project/jnevin-realto/
