@@ -52,7 +52,7 @@ The project uses Vezer to create its **Timeline Manager**. Vezer is a unique, lo
 
 The **Timeline** Manager is realto "communications central." It receives OSC message inputs from the sayer-controlled Cue Manager. In response, it moves its playhead through the realto composition timeline. 
 
-Each timeline's composition contains a set of synchronized media control tracks that trigger events in the Media Manager with outbound OSC messages. 
+Each timeline's composition contains a set of synchronized media control tracks that trigger events in the **Media Manager** with outbound OSC messages. 
 
 ## What's Here Now
 - Early Realto template for CoGeVJ Media Manager.
