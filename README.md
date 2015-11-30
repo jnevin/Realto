@@ -1,7 +1,7 @@
 # Realto
 The Realto Live Cinema project.
 
-A realto (re&#772;a&#774;l-to&#772;) is a new, hybrid form of visual storytelling -- part live narrative, part pre-recorded movie, part text, part electronic theater -- all coming together in an experience best described, perhaps, as Live Cinema.
+A realto (re&#772;a&#774;l-to&#772;) is a new, hybrid form of visual storytelling -- part live narrative, part pre-recorded movie, part text, part electronic theater -- all coming together in an experience perhaps best described as Live Cinema.
 
 ## Realto Agile Project Status Tracking Board
 - https://tree.taiga.io/project/jnevin-realto/
