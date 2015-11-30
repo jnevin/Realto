@@ -14,7 +14,7 @@ An over-arching goal of the Realto project is to enable individual artists, indi
 To the degree possible, realto software and schematics are designed as open source works-in-progress to encourage do-it-yourself experimentation and exploration. *Carpe diem!*
 
 ## Realto Agile Project Status Tracking Board
-- https://tree.taiga.io/project/jnevin-realto/
+- https://tree.taiga.io/project/jnevin-realto/ -- to be made public soon
 
 ## Application Overview
 This repository contains versioned software application tools and templates for the Realto Live Cinema project.
