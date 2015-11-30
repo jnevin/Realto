@@ -1,7 +1,7 @@
 # Realto
 The Realto Live Cinema project.
 
-Re&#772;a&#774;
+A re&#772;a&#774;lto&#772;
 
 ## Realto Agile Project Status Tracking Board
 - https://tree.taiga.io/project/jnevin-realto/
