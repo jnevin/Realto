@@ -50,16 +50,18 @@ The **Media Manager** manages a realto's audio/visual media, such as video clips
 ### Vezer
 The project uses Vezer to create its **Timeline Manager**. Vezer is a unique, low-cost commercial sequencer software app also from [Imimot](http://imimot.com/) -- amazing, as well!
 
-The **Timeline** Manager is the "communications central" of a realto. It receives OSC message inputs from the sayer-controlled Cue Manager. In response, it moves its playhead through the realto composition timeline. 
+The **Timeline** Manager is realto "communications central." It receives OSC message inputs from the sayer-controlled Cue Manager. In response, it moves its playhead through the realto composition timeline. 
 
 Each timeline's composition contains a set of synchronized media control tracks that trigger events in the Media Manager with outbound OSC messages. 
 
 ## What's Here Now
-- Realto model for CoGeVJ template.
+- Early Realto template for CoGeVJ Media Manager.
 
 ## What's To Do:
-- Add Vezer Realto model
-- Add Cue Manager Quartz Composer tool 
-- Add caption support Quartz Composer syphon server toool
-- Extend CoGeVJ Realto template
-- Normalize media
+- Add Vezer Realto Timeline Manager model
+- Add Cue Manager Quartz Composer tool
+- Add Text Manager Quartz Composer tool with Syphon server support
+- Fine tune CoGeVJ Realto template
+- Normalize sample media
+- Provide sample project
+- Provide quickstart installation instructions and FAQ 
