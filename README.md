@@ -5,7 +5,7 @@ A realto (re&#772;a&#774;l-to&#772;) is a new, hybrid form of visual storytellin
 
 In a realto, the live storytelling "sayer," working on a special [greenscreen](https://en.wikipedia.org/wiki/Chroma_key) stage, is also simultaneously inserted as a live actor into a sayer-controlled, interactive "movie" world that unfolds on two immediately adjacent projection screens.
 
-The realto audience ("seer") experience is intentionally ambiguous, connected and yet disconnected -- live versus pre-recorded, three dimensional versus two dimesional, aural/visual versus textual.
+What the realto audience ("seers") experience is intentionally ambiguous, connected and yet disconnected -- live versus pre-recorded, three dimensional versus two dimesional, aural/visual versus textual.
 
 The invented term "realto" is comprehensive: it describes the means of its production, i.e., the realto toolset, digital and physical; the means of its delivery, i.e., the realto electronic theater or story-space; and the artistic result, i.e., the realto story experience.
 
