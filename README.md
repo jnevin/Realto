@@ -15,10 +15,10 @@ The Realto Live Cinema application is Mac-OSX-only software. The application's c
 - [Vezer](http://imimot.com/vezer/)
 
 The application has four main components: 
-- the **Cue Manager**
-- the **Timeline Manager**
-- the **Media Manager**
-- the **Text Manager** 
+- the **Cue Manager** -- connects the live realto "sayer" to timed realto media playback
+- the **Timeline Manager** -- synchronizes and triggers media playback and theatrical events  
+- the **Media Manager** -- organizes, mixes and projects layered playback media, live greenscreen and special effects
+- the **Text Manager** -- coordinates display of sequenced text media with other playback media 
 
 ### Application Flow
 Communication between these four components is over the local TCP network, primarily via [OSC, Open Sound Control](https://en.wikipedia.org/wiki/Open_Sound_Control). The application uses other protocols such as [DMX](https://en.wikipedia.org/wiki/DMX512) and [ART-NET](https://en.wikipedia.org/wiki/Art-Net) to control lighting and [MIDI](https://en.wikipedia.org/wiki/MIDI) for certain types of device input.
