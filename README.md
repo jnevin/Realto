@@ -7,7 +7,7 @@ A realto (re&#772;a&#774;l-to&#772;) is a new, hybrid form of visual storytellin
 - https://tree.taiga.io/project/jnevin-realto/
 
 ## Overview
-This repo contains software application tools and templates for the Realto Live Cinema project.
+This repository contains versioned software application tools and templates for the Realto Live Cinema project.
 
 The Realto Live Cinema application is Mac-OSX-only software. The application's components are built on top of three foundation frameworks: 
 - [Quartz Composer](https://developer.apple.com/library/mac/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html)
