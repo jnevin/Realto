@@ -1,12 +1,16 @@
 # Realto
 The Realto Live Cinema project.
 
-A realto (re&#772;a&#774;l-to&#772;) is a new, hybrid form of visual storytelling -- part live narrative, part pre-recorded movie, part text, part electronic theater -- all coming together in a unified experience perhaps best described as Live Cinema.
+A realto (re&#772;a&#774;l-to&#772;) is a new, hybrid form of visual storytelling -- part live narrative, part pre-recorded movie, part text, part electronic theater -- all coming together in a unified, blended experience perhaps best described as Live Cinema.
+
+In a realto, the live storytelling "sayer," working on a special [greenscreen](https://en.wikipedia.org/wiki/Chroma_key) stage, is simultaneously inserted as a live actor into a sayer-controlled, interactive "movie" that unfolds on two immediately adjacent projection screens.
+
+What the audience ("seers") experience is intentionally ambiguous and discontinuous -- live versus pre-recorded, three dimensional versus two dimesional, aural/visual versus textual.
 
 ## Realto Agile Project Status Tracking Board
 - https://tree.taiga.io/project/jnevin-realto/
 
-## Overview
+## Application Overview
 This repository contains versioned software application tools and templates for the Realto Live Cinema project.
 
 The Realto Live Cinema application is Mac-OSX-only software. The application's components are built on top of three foundation frameworks: 
